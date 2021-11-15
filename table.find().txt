@@ -1,3 +1,4 @@
+--Lesson - table.find()
 local thing2 = "thing2"-- just a variable
 local Table = {-- our table 
 	"thing1";
